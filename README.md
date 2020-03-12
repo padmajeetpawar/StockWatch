@@ -1,6 +1,11 @@
 # StockWatch
 An Android application to monitor stocks
 
+# Technology Stack
+• Java
+• REST API
+• JSON
+
 ***
 
 ## Features Implemented
@@ -13,3 +18,5 @@ An Android application to monitor stocks
 • Swipe-Refresh (pull-down) refreshes stock data  
 
 ***
+
+## Application Overview 
