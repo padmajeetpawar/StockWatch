@@ -5,6 +5,7 @@ An Android application to monitor stocks
 • Java  
 • REST API  
 • JSON  
+• SQLite
 
 ***
 
