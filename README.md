@@ -1,7 +1,7 @@
 # StockWatch
-An Android application to monitor stocks
+An Android application which allows user to display selected stocks and monitor 
 
-# Technology Stack
+## Technology Stack
 • Java  
 • REST API  
 • JSON  
