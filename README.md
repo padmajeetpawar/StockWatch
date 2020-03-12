@@ -2,9 +2,9 @@
 An Android application to monitor stocks
 
 # Technology Stack
-• Java
-• REST API
-• JSON
+• Java  
+• REST API  
+• JSON  
 
 ***
 
