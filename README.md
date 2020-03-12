@@ -27,4 +27,7 @@ An Android application to monitor stocks
   <img src="/screenshots/screenshot3.png" height= "800" width="420" />
   <img src="/screenshots/screenshot4.png" height= "800" width="420" />
   <img src="/screenshots/screenshot5.png" height= "800" width="420" />
+  <img src="/screenshots/screenshot6.png" height= "800" width="420" />
+  <img src="/screenshots/screenshot7.png" height= "800" width="420" />
+  <img src="/screenshots/screenshot8.png" height= "800" width="420" />
 </p>
