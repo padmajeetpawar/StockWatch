@@ -32,6 +32,7 @@ An Android application which allows user to display selected stocks and monitor
   <img src="/screenshots/screenshot4.png" height= "750" width="390" />
   <img src="/screenshots/screenshot5.png" height= "750" width="390" />
   <img src="/screenshots/screenshot6.png" height= "750" width="390" />
+  • In case there is no active internet connection
   <img src="/screenshots/screenshot7.png" height= "750" width="390" />
   <img src="/screenshots/screenshot8.png" height= "750" width="390" />
 </p>
